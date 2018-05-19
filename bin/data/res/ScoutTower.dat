@@ -1,0 +1,42 @@
+# Resource Name
+ScoutTower
+# Hit Points
+100
+# Armor
+20
+# Sight
+100
+# Sight during construction
+100
+# Size
+2
+# Speed
+0
+# Gold Cost
+550
+# Lumber Cost
+200
+# Stone Cost
+0
+# Food Consumption (Negative Production)
+0
+# Build Time (s)
+2
+# Attack Steps
+0
+# Reload Steps
+0
+# Basic Damage
+0
+# Piercing Damage
+0
+# Range
+0
+# Capability Count
+2
+# Name of Capabilities
+BuildGuardTower
+BuildCannonTower
+# Requirement Count
+0
+# List of Requirements
